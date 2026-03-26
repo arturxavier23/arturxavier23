@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Sou Artur, de Cuiabá, Mato Grosso, Brasil<br><br>🔭 Trabalho como consultor de vendas da Schwarzkopf e já atuei com suporte de TI usando TOTVS Protheus<br>📚 Atualmente estou cursando Engenharia de Software (5º semestre), com foco em dados, BI e desenvolvimento full stack<br>⚡ No meu tempo livre gosto de desenvolver projetos (dashboards, apps), estudar novas tecnologias e assistir filmes de suspense/mistério</p>
+<p align="left">Sou Artur, de Cuiabá, Mato Grosso, Brasil<br><br>🔭 Trabalho como consultor de vendas da Schwarzkopf e já atuei com suporte de TI usando TOTVS Protheus<br>📚 Atualmente estou cursando Engenharia de Software (6º semestre), com foco em dados, BI e desenvolvimento full stack<br>⚡ No meu tempo livre gosto de desenvolver projetos (dashboards, apps), estudar novas tecnologias e assistir filmes de suspense/mistério</p>
 
 ###
 
